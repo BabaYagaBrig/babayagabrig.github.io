@@ -24,4 +24,4 @@ My experience from school already have me working on a few ideas.
 ### Contact:
 
 Email: brig_lowell@gmail.com or briglowell@u.boisestate.edu.
-Phone: 208-570-5299
+Phone: 208-570-5299.
