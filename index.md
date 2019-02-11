@@ -1,37 +1,27 @@
-## Brig's Page Now
+## Who is BabaYagaBrig?
 
-You can use the [editor on GitHub](https://github.com/BabaYagaBrig/babayagabrig.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Brig Lowell. I have a passion for technology and software. I even ran a multi-million dollar ecommerce business buying/selling/repairing iphones.  Unfortunately, business partner issues and market changes forced me to move on from my business. It was a great oppurtuninty for me and the experience gained is invaluable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made the choice to go back to school. I am currently a Student at BoiseState uninversity, working on my Bachelor of Computer Science. Hopefully will be graduating Fall 2019 or Spring 2020. I plan on staying in the valley when I graduate and am on the lookout for any local internships.
 
-### Markdown
+When I am not working on school, I am spending time with my wife and two beautiful daughters. Juggling family and school has been a fun adventure. They are my everything, and my motivation to keep moving forward to provide them with a comfortable life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Areas of Interest:
 
-```markdown
-Syntax highlighted code block
+**Gaming:**
+Being an avid gamer, I am interested in developing games.
+Growing up with a nintendo controller in hand, I feel I 
+have a good understanding on gaming markets and interest.
+I have worked on a few games with my brothers in pre-built 
+design software e.g. RPG Maker. 
 
-# Header 1
-## Header 2
-### Header 3
+**Apps:**
+Having an entrepreneurial mind leads me to wanting to work
+on app/app-design. I brainstorm constantly with friends and
+collegues on what we would like to see/design in the app world.
+My experience from school already have me working on a few ideas.
 
-- Bulleted
-- List
+### Contact:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BabaYagaBrig/babayagabrig.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: brig_lowell@gmail.com or briglowell@u.boisestate.edu.
+Phone: 208-570-5299.
